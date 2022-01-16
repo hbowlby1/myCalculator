@@ -53,9 +53,9 @@ namespace myCalculator
             this.endResult.AutoSize = true;
             this.endResult.Location = new System.Drawing.Point(167, 56);
             this.endResult.Name = "endResult";
-            this.endResult.Size = new System.Drawing.Size(68, 15);
+            this.endResult.Size = new System.Drawing.Size(13, 15);
             this.endResult.TabIndex = 0;
-            this.endResult.Text = "sample text";
+            this.endResult.Text = "0";
             // 
             // button1
             // 

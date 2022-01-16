@@ -189,6 +189,7 @@ namespace myCalculator
             firstNum = 0;
             secondNum = 0;
             calcType = "";
+            endResult.Text = "0";
         }
     }
 }
